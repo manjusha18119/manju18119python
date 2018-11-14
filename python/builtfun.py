@@ -1,0 +1,19 @@
+import math
+x=1.34
+print(x)
+abs(x)
+print(x)
+a=5
+b=10
+#math.cmp(5,6)
+y=pow(2,3)
+print(y)
+z=math.pow(2,3)
+print(z)
+#x=log(2)
+#print(x)
+y=math.sqrt(36)
+print(y)
+print(type(y))
+a="string"
+print(type(a))

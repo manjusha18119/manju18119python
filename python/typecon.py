@@ -1,0 +1,6 @@
+a=input("Enter your text:")
+print(type(a))
+print("Integer:",int(a)) 
+print("Long:",long(a))
+print("float:",float(a))
+print("complex:",complex(a))

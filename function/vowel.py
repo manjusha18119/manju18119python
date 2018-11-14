@@ -1,0 +1,7 @@
+s=input("enter string:")
+r1=s.count("a")
+r2=s.count("e")
+r3=s.count("i")
+r4=s.count("o")
+r5=s.count("u")
+print ("a=",r1,"\ne=",r2,"\ni=",r3,"\n0=",r4,"\nu=",r5)

@@ -1,0 +1,12 @@
+#19. Write a program to count the no:of each vowel in a given string.
+string=input("Enter the string:")
+result1=string.count('a')
+result2=string.count('e')
+result3=string.count('i')
+result4=string.count('o')
+result5=string.count('u')
+print("a =",result1)
+print("e =",result2)
+print("i =",result3)
+print("o =",result4)
+print("u =",result5)

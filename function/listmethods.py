@@ -1,0 +1,13 @@
+list1=['abc','xyz','anju','uvw']
+print(list1.append("anju"))
+print(list1.count("abc"))
+print(list1.insert(4,"123"))
+print(list1.remove("xyz"))
+print(max(list1))
+print(min(list1))
+print(sorted(list1))
+print(list1.pop())
+print(list1.remove("uvw"))
+print(list1.reverse())
+print(list1)
+print(list1.clear())
